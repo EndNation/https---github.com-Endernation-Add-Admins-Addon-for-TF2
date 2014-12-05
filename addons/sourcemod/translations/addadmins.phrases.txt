@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"AddedAdmin"
+	{
+		"en"		"Added player to admins_simple.ini"
+	}
+	"AddedAdminGroup"	
+	{
+		"en"		"Added targeted admin to the group"
+	}
+	"AddedAdminFlag"
+	{
+		"en"		"Added flags to the targeted admin!"
+	}
+}
